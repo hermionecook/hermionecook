@@ -1,4 +1,4 @@
-<!--- Hi, I'm Hermione Cook, a full-time student 
+<!--- Hi, I'm Hermione Cook, a full-time student at Ron Dearing UTC, in my final year of college. This year, I have the oppertunitiy to work on many different projects which is requiring me to learn several different coding languages, including: HTML, CSS, 
 
 
 - 👋 Hi, I’m @hermionecook
